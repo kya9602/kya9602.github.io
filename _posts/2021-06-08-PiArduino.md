@@ -1,8 +1,8 @@
 ---
 title: 로드셀을 이용한 아두이노 + 라즈베리파이
-date: 2021-06-07 23:46:00
+date: 2021-06-07 00:13:00
 categories: [Study,Iot]
-tags: [Arduino, Pi, python, Load cell, Raspberry Pi]
+tags: [Arduino, Pi, Python, Raspberry Pi]
 ---
 
 <!-- post.02 -->
